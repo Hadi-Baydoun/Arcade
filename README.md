@@ -20,11 +20,17 @@ Game 4: Breakout -  Control the paddle, bounce the ball, and smash bricks for hi
 Game 5: Rock-Paper-Scissors -   The timeless hand game where rock crushes scissors, scissors cuts paper, and paper covers rock. A simple, fun, and quick way to settle decisions or challenge friends.
 
 Screenshots
+
+
+
 ![Screenshot_6](https://github.com/Hadi-Baydoun/Arcade/assets/106028128/7e027ce0-f94b-4560-8208-9b124bb2b24e)
 
 ![Screenshot_5](https://github.com/Hadi-Baydoun/Arcade/assets/106028128/543900ae-c297-43d6-a4b1-d2d71bd96d33)
 
 ![Screenshot_4](https://github.com/Hadi-Baydoun/Arcade/assets/106028128/f59997e8-a046-4f27-96f9-4ebd1985d8e3)
 
+![Screenshot_3](https://github.com/Hadi-Baydoun/Arcade/assets/106028128/aa7e7c59-787c-4bba-a6d4-0d1b17c745f7)
+
+![Screenshot_2](https://github.com/Hadi-Baydoun/Arcade/assets/106028128/929eb8e4-95d1-496a-be5c-67fa8997c863)
 
 
