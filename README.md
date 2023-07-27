@@ -1,5 +1,4 @@
-![Screenshot_6](https://github.com/Hadi-Baydoun/Arcade/assets/106028128/7e027ce0-f94b-4560-8208-9b124bb2b24e)
-![Screenshot_5](https://github.com/Hadi-Baydoun/Arcade/assets/106028128/543900ae-c297-43d6-a4b1-d2d71bd96d33)
+
 
 # Arcade
 This repository houses a collection of engaging 2D games that I've created using pure JavaScript and HTML5 canvas. The website is based on a template I found on Google, which I have customized and enhanced with different HTML, CSS, and JavaScript files to showcase these exciting games.
@@ -20,6 +19,7 @@ Game 4: Breakout -  Control the paddle, bounce the ball, and smash bricks for hi
 Game 5: Rock-Paper-Scissors -   The timeless hand game where rock crushes scissors, scissors cuts paper, and paper covers rock. A simple, fun, and quick way to settle decisions or challenge friends.
 
 Screenshots
-
+![Screenshot_6](https://github.com/Hadi-Baydoun/Arcade/assets/106028128/7e027ce0-f94b-4560-8208-9b124bb2b24e)
+![Screenshot_5](https://github.com/Hadi-Baydoun/Arcade/assets/106028128/543900ae-c297-43d6-a4b1-d2d71bd96d33)
 
 
