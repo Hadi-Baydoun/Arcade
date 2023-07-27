@@ -1,5 +1,6 @@
 
 
+
 # Arcade
 This repository houses a collection of engaging 2D games that I've created using pure JavaScript and HTML5 canvas. The website is based on a template I found on Google, which I have customized and enhanced with different HTML, CSS, and JavaScript files to showcase these exciting games.
 
@@ -20,6 +21,10 @@ Game 5: Rock-Paper-Scissors -   The timeless hand game where rock crushes scisso
 
 Screenshots
 ![Screenshot_6](https://github.com/Hadi-Baydoun/Arcade/assets/106028128/7e027ce0-f94b-4560-8208-9b124bb2b24e)
+
 ![Screenshot_5](https://github.com/Hadi-Baydoun/Arcade/assets/106028128/543900ae-c297-43d6-a4b1-d2d71bd96d33)
+
+![Screenshot_4](https://github.com/Hadi-Baydoun/Arcade/assets/106028128/f59997e8-a046-4f27-96f9-4ebd1985d8e3)
+
 
 
