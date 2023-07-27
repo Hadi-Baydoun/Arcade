@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    background-image: url(/assets/images/dark-bg.jpg);
+    color: white;
+}
+
+#board {
+    background-image: url("/assets/images/doodlejumpbg.png");
+    margin-top: 20px;
+}

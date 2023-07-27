@@ -1,0 +1,41 @@
+body{
+  text-align: center;
+  background-image: url(/assets/images/dark-bg.jpg);
+  font-family:'Courier New', Courier, monospace;
+    color: white;
+}
+.grid {
+    position: absolute;
+    width: 560px;
+    height: 300px;
+    border: solid 1px black;
+    margin-top: 100px;
+    left: 32%;
+  }
+  
+  .user {
+    position: absolute;
+    width: 100px;
+    height: 20px;
+    background-color: blueviolet;
+  }
+  
+  .block {
+    position: absolute;
+    width: 100px;
+    height: 20px;
+    background-color: blue;
+  }
+  
+  .ball {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    background-color: red;
+  }
+  .scoreView{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+  }

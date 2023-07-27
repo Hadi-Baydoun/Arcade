@@ -1,0 +1,11 @@
+body {
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+    background-image: url(/assets/images/dark-bg.jpg);
+    color: white;
+}
+
+#board {
+    background-image: url("/assets/images/flappybirdbg.png");
+    margin-top: 10px;
+}

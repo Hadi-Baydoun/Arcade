@@ -1,0 +1,12 @@
+body {
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+    background-image: url(/assets/images/dark-bg.jpg);
+    color: white;
+}
+
+#board {
+    background-color: black;
+    border-radius: 15px;
+    margin-top: 50px;
+}
